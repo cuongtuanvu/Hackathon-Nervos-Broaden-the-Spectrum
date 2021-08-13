@@ -9,7 +9,7 @@
 ```
 
 3.A screenshot of the console output immediately after checking your SUDT balance.
-![balance](task-5_2.PNG)
+![Checking SUDT balance](https://github.com/cuongtuanvu/Hackathon-Nervos-Broaden-the-Spectrum/blob/main/Task%2005%20-%20Deploy%20The%20ERC20%20Proxy%20Contract%20For%20The%20Deposited%20SUDT/Checking%20your%20SUDT%20balance.JPG?raw=true)
 
 4.The Ethereum address that was checked (in text format).
 ```sh
