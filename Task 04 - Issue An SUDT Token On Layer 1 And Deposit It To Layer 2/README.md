@@ -16,4 +16,10 @@ https://explorer.nervos.org/aggron/transaction/0xd2996a7ce632bbabee8b7b61db58d19
 
 4. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
 ![A deposi to Layer 2](https://github.com/cuongtuanvu/Hackathon-Nervos-Broaden-the-Spectrum/blob/main/Task%2004%20-%20Issue%20An%20SUDT%20Token%20On%20Layer%201%20And%20Deposit%20It%20To%20Layer%202/A%20deposit%20to%20Layer%202-1.JPG?raw=true)
-![](
+![](https://github.com/cuongtuanvu/Hackathon-Nervos-Broaden-the-Spectrum/blob/main/Task%2004%20-%20Issue%20An%20SUDT%20Token%20On%20Layer%201%20And%20Deposit%20It%20To%20Layer%202/A%20deposit%20to%20Layer%202-2.JPG?raw=true)
+
+5. The SUDT ID from the console output after executing the deposit script (in text format).
+
+```
+Your sudt id: 2111
+```
