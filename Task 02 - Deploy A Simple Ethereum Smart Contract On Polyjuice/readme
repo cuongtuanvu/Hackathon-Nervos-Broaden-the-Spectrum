@@ -7,11 +7,11 @@ Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
 2. The transaction hash from the contract deployment (in text format).
 
 ```
-0x1d2ffb5303e160091b40c1050b87ce5dfa55fbdc88d238f5ee36e621249df715 
+0x5d4b27f20e3481908d1caab54ee586c42b3e90f24843eec99fa7c10fcdfcfeda 
 ```
 
 3. The deployed contract address from the contract deployment (in text format).
 
 ```
-0x9f65E702124b9674f60396d3bC6b644F1e75210f
+0x1E4c72b11A5153E612380A8bf66186300A0753f9
 ```
