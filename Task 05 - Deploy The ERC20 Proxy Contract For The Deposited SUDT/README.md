@@ -5,7 +5,7 @@
 
 2.The address of the ERC20 Proxy Contract you deployed (in text format).
 ```sh
-0xCe0A9Fa44b27e569F913DC38BAE46A2FF15F7600
+0x995F322bD273caaC4B0a9302c2eA73e3a29820fb
 ```
 
 3.A screenshot of the console output immediately after checking your SUDT balance.
@@ -13,5 +13,5 @@
 
 4.The Ethereum address that was checked (in text format).
 ```sh
-0x0318E960501645A9755121C6D3F42B46900FF995
+0xbEa18B896E4b5EEA5Da078E55DB0E877392c4fEb
 ```
